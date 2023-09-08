@@ -1,0 +1,69 @@
+#full{
+  width:100%;
+  height: auto;
+}
+.hlw{
+font-size: 20px;
+text-align: center;
+}
+
+
+#inner_full{
+  width:80%;
+  height: auto;
+  margin: auto;
+}
+
+#header{
+  width: 100%;
+  height: 50px;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+#body{
+  width:100%;
+  height:400px;
+}
+
+#footer{
+  width: 100%;
+  height: 100px;
+  background-color: red;
+  color: white;
+}
+#footer1{
+    width: 5rem;
+    height:1rem;
+    color: white;
+    padding: 2rem 1rem;
+    text-align: center;
+    text-underline-position:hidden;
+    margin-left: 35rem;
+}
+ul li{
+  width:20%;
+  height:50px;
+  line-height: 50px;
+  margin-left:55px;
+  
+  background: red;
+  color:white;
+  float:left;
+  text-align: center;
+  list-style: none;
+  border-radius: 12px;
+}
+ul li a{
+  text-decoration: none;
+  color:white;
+}
+#form{
+  width: 80%;
+  height:280px;
+  background: red;
+  color:white;
+  border-radius:10px;
+
+}
